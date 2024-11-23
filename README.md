@@ -37,3 +37,11 @@ To run the pretrained model, simply execute this command:
 To run the current real world configuration (no Reinforcement Learning), run:
 
 `$ python3 test_environment.py`
+
+## Credits
+
+| Author             | Contact                       
+| ----------------   | ------------------------------
+| Emanuele Coccia | emanuele.coccia@studbocconi.it 
+| Roberto Bernardelli |	roberto.bernardelli@studbocconi.it
+| Domitilla Izzo | domitilla.izzo@studbocconi.it 
